@@ -1,0 +1,2 @@
+z = 3 + 4j
+print(f"Real part: {z.real}, Imaginary part: {z.imag}")
