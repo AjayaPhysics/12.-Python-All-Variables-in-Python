@@ -1,0 +1,2 @@
+student = {"name": "Bob", "age": 21}
+print(f"Student Name: {student['name']}")
