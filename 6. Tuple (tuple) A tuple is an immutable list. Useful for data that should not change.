@@ -1,0 +1,2 @@
+coordinates = (10, 20)
+print(f"X: {coordinates[0]}, Y: {coordinates[1]}")
