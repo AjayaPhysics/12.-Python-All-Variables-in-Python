@@ -1,0 +1,4 @@
+height = 5.9
+weight = 70.5
+bmi = weight / (height ** 2)
+print(f"BMI: {bmi:.2f}")
